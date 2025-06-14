@@ -1,4 +1,5 @@
 Event Management API
+
 Welcome to the Event Management API – a simple backend app built with FastAPI that allows users to register for events, track attendance, and manage both events and speaker details.
 
 This project was created as part of my ALTSchool 2nd Semester Exam and is built entirely with in-memory storage. 
